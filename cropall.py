@@ -1,9 +1,12 @@
-#! /usr/bin/env python2
+#! /usr/bin/env python3
 
 # README:
+
+# Python3 version of the https://github.com/pknowles/cropall
+
 # this script needs
-# 1.  python 2.7 (or at least < 3) https://www.python.org/downloads/release/python-278/
-# 		also python-tk and python-imaging-tk
+# 1.  python 3
+# 		also python-tk, python-imaging-tk and pathlib
 # 2.  imagemagick http://www.imagemagick.org/script/binary-releases.php#windows
 # 3.  both added to PATH http://stackoverflow.com/questions/6318156/adding-python-path-on-windows-7
 
