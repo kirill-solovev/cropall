@@ -23,9 +23,10 @@ This is really a minimal GUI and preview for the following imagemagick command:
 
 This needs...
 
--  python 2.7 (added to PATH)
+-  python 3 (added to PATH)
    - python-tk
    - python-imaging-tk
+   - pathlib
 -  ImageMagick (added to PATH)
 
 ```
